@@ -1,0 +1,22 @@
+{
+  "name": "micro-scraper",
+  "version": "1.0.0",
+  "description": "Lightweight web scraper API",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "scraper",
+    "puppeteer",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "puppeteer": "^24.27.0"
+  }
+}
