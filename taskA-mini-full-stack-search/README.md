@@ -54,7 +54,7 @@ Notes:
 ### Frontend (`frontend/.env`)
 If not already set, use:
 ```
-NEXT_PUBLIC_EXPRESS_API_URL=http://localhost:3001
+NEXT_PUBLIC_EXPRESS_API_URL=http://localhost:5000
 ```
 Notes:
 - `NEXT_PUBLIC_EXPRESS_API_URL`: Public base URL for the backend API used by the frontend.
